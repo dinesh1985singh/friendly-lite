@@ -1,0 +1,624 @@
+# Copyright (C) 2019 Dinesh Singh
+# This file is distributed under the GNU General Public License v2 or later.
+msgid ""
+msgstr ""
+"Project-Id-Version: Friendly Lite 1.0.0\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/theme/friendly-lite\n"
+"Last-Translator: DINESH SINGH <DINESH1985SINGH@GMAIL.COM>\n"
+"Language-Team: Dinesh Singh <dinesh1985singh@gmail.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2019-12-29T15:15:17+01:00\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"X-Generator: WP-CLI 2.2.0\n"
+"X-Domain: friendly-lite\n"
+
+#. Theme Name of the theme
+msgid "Friendly Lite"
+msgstr ""
+
+#. Theme URI of the theme
+msgid "https://github.com/dinesh1985singh/friendly-lite"
+msgstr ""
+
+#. Description of the theme
+msgid "Friendly Lite is a translation ready responsive WordPress theme built on Twitter Bootstrap v3 with a powerfull theme options that let you create stunning blogs and websites."
+msgstr ""
+
+#. Author of the theme
+msgid "Dinesh Singh"
+msgstr ""
+
+#. Author URI of the theme
+msgid "https://github.com/dinesh1985singh/"
+msgstr ""
+
+#: 404.php:21
+msgid "Oops! That page can&rsquo;t be found."
+msgstr ""
+
+#: 404.php:26
+msgid "It looks like nothing was found at this location. Maybe try a search?"
+msgstr ""
+
+#: archive.php:61
+#: comments.php:72
+#: front-page.php:56
+#: home.php:62
+#: index.php:56
+#: search.php:56
+msgid "Previous page"
+msgstr ""
+
+#: archive.php:62
+#: comments.php:73
+#: front-page.php:57
+#: home.php:63
+#: index.php:57
+#: search.php:57
+msgid "Next page"
+msgstr ""
+
+#: archive.php:63
+#: comments.php:74
+#: front-page.php:58
+#: home.php:64
+#: inc/custom-function.php:266
+#: index.php:58
+#: search.php:58
+msgid "Page"
+msgstr ""
+
+#. translators: %s: post title
+#: comments.php:34
+msgctxt "comments title"
+msgid "One comment on &ldquo;%s&rdquo;"
+msgstr ""
+
+#. translators: 1: number of comments, 2: post title
+#: comments.php:38
+msgctxt "comments title"
+msgid "%1$s comment on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s comments on &ldquo;%2$s&rdquo;"
+msgstr[0] ""
+msgstr[1] ""
+
+#: comments.php:81
+#: single.php:58
+msgid "Comments are closed."
+msgstr ""
+
+#: footer.php:38
+msgid "Scroll up to top"
+msgstr ""
+
+#: functions.php:68
+msgid "It appears that the friendly-lite-navwalker.php file may be missing."
+msgstr ""
+
+#: header.php:35
+msgid "Skip To Content"
+msgstr ""
+
+#. translators: %s: WordPress version
+#: inc/back-compat.php:35
+msgid "This theme requires WordPress version 4.7 or newer. You&rsquo;re currently using version %s. Please upgrade."
+msgstr ""
+
+#. translators: %s: WordPress version
+#: inc/back-compat.php:50
+#: inc/back-compat.php:70
+msgid "This theme requires at least WordPress version 4.7. You are running version %s. Please upgrade and try again."
+msgstr ""
+
+#: inc/custom-function.php:28
+#: inc/customizer/options/general-settings-options.php:174
+#: single.php:47
+msgid "Continue Reading"
+msgstr ""
+
+#. translators: 1: Name of current post, 2: rightward arrow
+#: inc/custom-function.php:70
+msgid "Continue Reading %1$s %2$s"
+msgstr ""
+
+#: inc/custom-function.php:118
+#: searchform.php:19
+msgctxt "label"
+msgid "Search for:"
+msgstr ""
+
+#: inc/custom-function.php:119
+#: searchform.php:22
+msgctxt "placeholder"
+msgid "Search &hellip;"
+msgstr ""
+
+#: inc/custom-function.php:120
+#: searchform.php:26
+msgctxt "submit button"
+msgid "Search"
+msgstr ""
+
+#: inc/custom-function.php:140
+msgid "Home"
+msgstr ""
+
+#: inc/custom-function.php:168
+msgid "Category: "
+msgstr ""
+
+#: inc/custom-function.php:189
+msgid "Seacrh results for: "
+msgstr ""
+
+#: inc/custom-function.php:239
+msgid "Posts tagged "
+msgstr ""
+
+#: inc/custom-function.php:245
+msgid "Articles posted by "
+msgstr ""
+
+#: inc/custom-function.php:249
+msgid "Error 404"
+msgstr ""
+
+#: inc/custom-header.php:66
+msgid "Default Header Image"
+msgstr ""
+
+#: inc/customizer/custom-controls/class-friendly-lite-layout-picker.php:44
+msgid "Full Width With No Sidebar"
+msgstr ""
+
+#: inc/customizer/custom-controls/class-friendly-lite-layout-picker.php:48
+msgid "With Left Sidebar"
+msgstr ""
+
+#: inc/customizer/custom-controls/class-friendly-lite-layout-picker.php:52
+msgid "With Right Sidebar"
+msgstr ""
+
+#: inc/customizer/customizer.php:40
+msgid "Home Page Setting"
+msgstr ""
+
+#: inc/customizer/options/color-options.php:33
+msgid "Site Branding Color"
+msgstr ""
+
+#: inc/customizer/options/color-options.php:34
+msgid "Header text Color when hero image is disabled."
+msgstr ""
+
+#: inc/customizer/options/contact-info-options.php:23
+msgid "Contact Info"
+msgstr ""
+
+#: inc/customizer/options/contact-info-options.php:46
+msgid "Mobile Number"
+msgstr ""
+
+#: inc/customizer/options/contact-info-options.php:47
+msgid "Display Contact number in top menu bar."
+msgstr ""
+
+#: inc/customizer/options/contact-info-options.php:70
+msgid "Email"
+msgstr ""
+
+#: inc/customizer/options/contact-info-options.php:94
+msgid "Skype Address"
+msgstr ""
+
+#: inc/customizer/options/general-settings-options.php:25
+msgid "General Settings"
+msgstr ""
+
+#: inc/customizer/options/general-settings-options.php:26
+msgid "Site Wide General setting configurations."
+msgstr ""
+
+#: inc/customizer/options/general-settings-options.php:44
+msgid "Display hero image?"
+msgstr ""
+
+#: inc/customizer/options/general-settings-options.php:45
+msgid "Toggle hero page hero image on or off."
+msgstr ""
+
+#: inc/customizer/options/general-settings-options.php:67
+msgid "Show search box on navigation?"
+msgstr ""
+
+#: inc/customizer/options/general-settings-options.php:68
+msgid "Show/Hide search box in navigation menu."
+msgstr ""
+
+#: inc/customizer/options/general-settings-options.php:90
+msgid "Enable Preloader?"
+msgstr ""
+
+#: inc/customizer/options/general-settings-options.php:91
+msgid "Preloader will load until content get displayed."
+msgstr ""
+
+#: inc/customizer/options/general-settings-options.php:113
+msgid "Display back to top button?"
+msgstr ""
+
+#: inc/customizer/options/general-settings-options.php:114
+msgid "Show/Hide back to top button."
+msgstr ""
+
+#: inc/customizer/options/general-settings-options.php:135
+msgid "How would you like to display post on listing pages?"
+msgstr ""
+
+#: inc/customizer/options/general-settings-options.php:136
+msgid "Display posts in excerpt or full view."
+msgstr ""
+
+#: inc/customizer/options/general-settings-options.php:140
+msgid "Post Excerpt"
+msgstr ""
+
+#: inc/customizer/options/general-settings-options.php:141
+msgid "Full Post"
+msgstr ""
+
+#: inc/customizer/options/general-settings-options.php:161
+msgid "Number of footer widget area."
+msgstr ""
+
+#: inc/customizer/options/general-settings-options.php:162
+msgid "Number of footer widget areas you want to have in footer."
+msgstr ""
+
+#: inc/customizer/options/general-settings-options.php:166
+msgid "1"
+msgstr ""
+
+#: inc/customizer/options/general-settings-options.php:167
+msgid "2"
+msgstr ""
+
+#: inc/customizer/options/general-settings-options.php:168
+msgid "3"
+msgstr ""
+
+#: inc/customizer/options/general-settings-options.php:188
+msgid "Read More"
+msgstr ""
+
+#: inc/customizer/options/general-settings-options.php:189
+msgid "Read More text to be displayed."
+msgstr ""
+
+#: inc/customizer/options/general-settings-options.php:197
+msgid "Copyright"
+msgstr ""
+
+#: inc/customizer/options/general-settings-options.php:213
+msgid "Copyright Text."
+msgstr ""
+
+#: inc/customizer/options/general-settings-options.php:214
+msgid "Copyright text to be displayed on site."
+msgstr ""
+
+#: inc/customizer/options/page-layouts-options.php:22
+msgid "Page Layouts"
+msgstr ""
+
+#: inc/customizer/options/page-layouts-options.php:23
+msgid "Set layout for different pages here."
+msgstr ""
+
+#: inc/customizer/options/page-layouts-options.php:34
+msgid "Blog Page Layout"
+msgstr ""
+
+#: inc/customizer/options/page-layouts-options.php:35
+msgid "Main Blog page layout settings."
+msgstr ""
+
+#: inc/customizer/options/page-layouts-options.php:44
+msgid "Default Post Layout"
+msgstr ""
+
+#: inc/customizer/options/page-layouts-options.php:45
+msgid "Default post page layout setting."
+msgstr ""
+
+#: inc/customizer/options/page-layouts-options.php:54
+msgid "Default Page Layout"
+msgstr ""
+
+#: inc/customizer/options/page-layouts-options.php:55
+msgid "Default Page Layout Settings."
+msgstr ""
+
+#: inc/customizer/options/page-layouts-options.php:64
+msgid "Archive Page Layout"
+msgstr ""
+
+#: inc/customizer/options/page-layouts-options.php:65
+msgid "Archive Page Layout Settings."
+msgstr ""
+
+#: inc/customizer/options/page-layouts-options.php:91
+msgid "Select you blog page layout."
+msgstr ""
+
+#: inc/customizer/options/page-layouts-options.php:119
+msgid "Select your post layout."
+msgstr ""
+
+#: inc/customizer/options/page-layouts-options.php:147
+msgid "Select you page layout."
+msgstr ""
+
+#: inc/customizer/options/page-layouts-options.php:175
+msgid "Select your archive layout."
+msgstr ""
+
+#: inc/customizer/options/page-layouts-options.php:176
+msgid "This layout would be same for all category/tags archive pages."
+msgstr ""
+
+#: inc/customizer/options/social-media-options.php:23
+msgid "Social Media"
+msgstr ""
+
+#: inc/customizer/options/social-media-options.php:45
+msgid "Display Social Icons in header top?"
+msgstr ""
+
+#: inc/customizer/options/social-media-options.php:68
+msgid "Display Social Icons In footer?"
+msgstr ""
+
+#: inc/customizer/options/social-media-options.php:92
+msgid "Facebook Url"
+msgstr ""
+
+#: inc/customizer/options/social-media-options.php:116
+msgid "Twitter Url"
+msgstr ""
+
+#: inc/customizer/options/social-media-options.php:140
+msgid "Linkedin Url"
+msgstr ""
+
+#: inc/customizer/options/social-media-options.php:164
+msgid "Google Plus Url"
+msgstr ""
+
+#: inc/customizer/options/social-media-options.php:188
+msgid "Youtube Url"
+msgstr ""
+
+#: inc/customizer/options/social-media-options.php:212
+msgid "Instragram Url"
+msgstr ""
+
+#: inc/customizer/options/social-media-options.php:236
+msgid "Flickr URL"
+msgstr ""
+
+#: inc/customizer/options/social-media-options.php:260
+msgid "Rss URL"
+msgstr ""
+
+#: inc/customizer/sanitize-callback.php:98
+msgid "Email Id is not valid!"
+msgstr ""
+
+#: inc/customizer/sanitize-callback.php:116
+msgid "Phone number is not valid!!!"
+msgstr ""
+
+#: inc/customizer/sanitize-callback.php:133
+msgid "Skype ID is not valid!"
+msgstr ""
+
+#: inc/customizer/sanitize-callback.php:165
+msgid "Url is not valid!"
+msgstr ""
+
+#: inc/template-tags.php:18
+msgid "Posted By: "
+msgstr ""
+
+#: inc/template-tags.php:47
+msgid "Posted On: "
+msgstr ""
+
+#: inc/template-tags.php:60
+#: inc/template-tags.php:73
+msgid ","
+msgstr ""
+
+#: inc/template-tags.php:62
+msgid "Categories: "
+msgstr ""
+
+#: inc/template-tags.php:76
+msgid "Tags: "
+msgstr ""
+
+#: inc/template-tags.php:90
+msgid "Leave a comment"
+msgstr ""
+
+#: inc/template-tags.php:90
+msgid "1 Comment"
+msgstr ""
+
+#: inc/template-tags.php:90
+msgid "% Comments"
+msgstr ""
+
+#. translators: %s: Name of current post
+#: inc/template-tags.php:124
+msgid "Edit %s"
+msgstr ""
+
+#: inc/theme-init.php:112
+msgid "Header Menu"
+msgstr ""
+
+#: inc/theme-widgets.php:21
+msgid "Primary Sidebar"
+msgstr ""
+
+#: inc/theme-widgets.php:22
+msgid "A widgetized area for left or right sidebar."
+msgstr ""
+
+#: inc/theme-widgets.php:32
+msgid "Left Most Footer"
+msgstr ""
+
+#: inc/theme-widgets.php:33
+msgid "Left most footer widgetized area."
+msgstr ""
+
+#: inc/theme-widgets.php:43
+msgid "Middle Footer"
+msgstr ""
+
+#: inc/theme-widgets.php:44
+msgid "Middle footer widgetized area."
+msgstr ""
+
+#: inc/theme-widgets.php:54
+msgid "Right Most Footer"
+msgstr ""
+
+#: inc/theme-widgets.php:55
+msgid "A right most footer widgetized area."
+msgstr ""
+
+#. translators: %s: the search query
+#: search.php:32
+msgid "Search Results for: %s"
+msgstr ""
+
+#: single.php:45
+msgid "Previous Post"
+msgstr ""
+
+#: single.php:45
+msgid "Previous"
+msgstr ""
+
+#: single.php:46
+msgid "Next Post"
+msgstr ""
+
+#: single.php:46
+msgid "Next"
+msgstr ""
+
+#. Template Name of the theme
+msgid "Full Width Page"
+msgstr ""
+
+#. translators: %s: the year
+#: template-parts/footer/site-info.php:17
+msgid "Copyright &copy; %s"
+msgstr ""
+
+#: template-parts/footer/site-info.php:23
+msgid "https://wordpress.org/"
+msgstr ""
+
+#. translators: %s: the company name
+#: template-parts/footer/site-info.php:28
+msgid "Proudly powered by %s"
+msgstr ""
+
+#: template-parts/header/topbar-strip.php:53
+#: template-parts/header/topbar-strip.php:54
+msgid "Toggle Top Bar"
+msgstr ""
+
+#: template-parts/page/content-page.php:27
+#: template-parts/post/content-audio.php:70
+msgid "Pages: "
+msgstr ""
+
+#. translators: 1: Name of current post, 2: rightward arrow
+#: template-parts/post/content-audio.php:56
+#: template-parts/post/content-chat.php:39
+#: template-parts/post/content-video.php:67
+msgid "Continue reading %1$s %2$s"
+msgstr ""
+
+#: template-parts/post/content-chat.php:55
+#: template-parts/post/content-gallery.php:50
+#: template-parts/post/content-video.php:80
+#: template-parts/post/content.php:45
+#: template-parts/post/content.php:58
+msgid "Pages:"
+msgstr ""
+
+#: template-parts/post/content-none.php:15
+msgid "Nothing Found!"
+msgstr ""
+
+#: template-parts/post/content-none.php:21
+msgid "Get started here"
+msgstr ""
+
+#. translators: %s: new post url
+#: template-parts/post/content-none.php:24
+msgid "Ready to publish your first post? %s"
+msgstr ""
+
+#: template-parts/post/content-none.php:30
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+msgstr ""
+
+#: template-parts/social-media.php:14
+msgid "View us on facebook"
+msgstr ""
+
+#: template-parts/social-media.php:21
+#: template-parts/social-media.php:22
+msgid "View us on twitter"
+msgstr ""
+
+#: template-parts/social-media.php:29
+#: template-parts/social-media.php:30
+msgid "View us on linkedin"
+msgstr ""
+
+#: template-parts/social-media.php:37
+#: template-parts/social-media.php:38
+msgid "View us on google+"
+msgstr ""
+
+#: template-parts/social-media.php:45
+#: template-parts/social-media.php:46
+msgid "View us on youtube"
+msgstr ""
+
+#: template-parts/social-media.php:53
+#: template-parts/social-media.php:54
+msgid "View us on instagram"
+msgstr ""
+
+#: template-parts/social-media.php:61
+#: template-parts/social-media.php:62
+msgid "View us on flicker"
+msgstr ""
+
+#: template-parts/social-media.php:69
+#: template-parts/social-media.php:70
+msgid "View rss feed"
+msgstr ""
