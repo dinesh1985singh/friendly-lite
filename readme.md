@@ -1,18 +1,18 @@
 ﻿# Friendly Lite #
 **Contributors:** [Dinesh Singh](https://profiles.wordpress.org/dinesh1985singh/)
 **Tags:** [one-column](https://wordpress.org/themes/tags/one-column/), [two-columns](https://wordpress.org/themes/tags/two-columns/), [left-sidebar](https://wordpress.org/themes/tags/left-sidebar/), [right-sidebar](https://wordpress.org/themes/tags/right-sidebar/), [custom-header](https://wordpress.org/themes/tags/custom-header/), [custom-background](https://wordpress.org/themes/tags/custom-background/), [threaded-comments](https://wordpress.org/themes/tags/threaded-comments/), [sticky-post](https://wordpress.org/themes/tags/sticky-post/), [translation-ready](https://wordpress.org/themes/tags/translation-ready/), [custom-menu](https://wordpress.org/themes/tags/custom-menu/), [custom-colors](https://wordpress.org/themes/tags/custom-colors/), [featured-images](https://wordpress.org/themes/tags/featured-images/), [post-formats](https://wordpress.org/themes/tags/post-formats/), [full-width-template](https://wordpress.org/themes/tags/full-width-template/), [theme-options](https://wordpress.org/themes/tags/theme-options/), [blog](https://wordpress.org/themes/tags/blog/), [custom-logo](https://wordpress.org/themes/tags/custom-logo/)
-**Requires at least:** 4.7  
-**Tested up to:**      5.0  
-**Requires PHP:**      5.3.0  
-**Stable tag:**        1.0.0 
+**Requires at least:** 4.7
+**Tested up to:**      5.0
+**Requires PHP:**      5.3.0
+**Stable tag:**        1.0.0
 **License:**           GPL-2.0 or later
-**License URI:**       https://www.gnu.org/licenses/gpl-2.0.html  
+**License URI:**       https://www.gnu.org/licenses/gpl-2.0.html
 
 ## Description ##
 
 Friendly Lite is a translation ready responsive theme built on Twitter Bootstrap v3 with a huge customizing options straight from WordPress Customizer that let you build stunning blogs and websites. This theme is made as customizable as possible from the backend and thus makes it perfect for any need without any hard work at the users end. 
 
-** Features **
+**Features**
 
 This theme supports WordPress's core functionalities like:
 
@@ -31,7 +31,7 @@ There is only one menu location at present in our theme:
 
 - The Primary menu location, is placed at the bottom of the header.
 
-** The Customizer options **
+**The Customizer options**
 
 This theme doesn't include any options page. Everything is managed through the customizer itself. Friendly lite provide you many different options to manage different aspects of a website additionally to the default customizer options. Go to Appearance > Customize to see all available options.
  - The 'Page Layout' section let you set your Blog page, Post Page, Default page and archive page with left/right sidebar or no sidebar at all.
@@ -100,12 +100,19 @@ GNU General Public License for more details.
 ## Frequently Asked Questions ##
 
 1. **Is the theme is Gutenberg ready?**
+
 Well, partially. I am working on it to make it fully gutenberg compatible and it would be available very soon in the next update of the theme. 
 
 2. **I have uploaded the header hero image, but it not visible to my site?**
+
 Please make sure you have checked the option "Display hero image?" under **Appearance > Customize > General Settings**. Until you check it, Header Hero image would not be available. 
 
+
 ## Changelog ##
+
+### 1.0.1 ( Jan 05, 2019 ) ###
+* Fix: Fix the typo error of first releasing date.
+* New: Added readme.md file.
 
 ### 1.0.0 ( Dec 30, 2019 ) ###
 * Initial release
