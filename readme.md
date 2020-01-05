@@ -1,12 +1,21 @@
 ﻿# Friendly Lite #
+
 **Contributors:** [Dinesh Singh](https://profiles.wordpress.org/dinesh1985singh/)
+
 **Tags:** [one-column](https://wordpress.org/themes/tags/one-column/), [two-columns](https://wordpress.org/themes/tags/two-columns/), [left-sidebar](https://wordpress.org/themes/tags/left-sidebar/), [right-sidebar](https://wordpress.org/themes/tags/right-sidebar/), [custom-header](https://wordpress.org/themes/tags/custom-header/), [custom-background](https://wordpress.org/themes/tags/custom-background/), [threaded-comments](https://wordpress.org/themes/tags/threaded-comments/), [sticky-post](https://wordpress.org/themes/tags/sticky-post/), [translation-ready](https://wordpress.org/themes/tags/translation-ready/), [custom-menu](https://wordpress.org/themes/tags/custom-menu/), [custom-colors](https://wordpress.org/themes/tags/custom-colors/), [featured-images](https://wordpress.org/themes/tags/featured-images/), [post-formats](https://wordpress.org/themes/tags/post-formats/), [full-width-template](https://wordpress.org/themes/tags/full-width-template/), [theme-options](https://wordpress.org/themes/tags/theme-options/), [blog](https://wordpress.org/themes/tags/blog/), [custom-logo](https://wordpress.org/themes/tags/custom-logo/)
+
 **Requires at least:** 4.7
+
 **Tested up to:**      5.0
+
 **Requires PHP:**      5.3.0
+
 **Stable tag:**        1.0.0
+
 **License:**           GPL-2.0 or later
+
 **License URI:**       https://www.gnu.org/licenses/gpl-2.0.html
+
 
 ## Description ##
 
