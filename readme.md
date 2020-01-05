@@ -120,7 +120,7 @@ Please make sure you have checked the option "Display hero image?" under **Appea
 ## Changelog ##
 
 ### 1.0.1 ( Jan 05, 2019 ) ###
-* Fix: Update the initial release date of the theme.
+* Fix: Updated the initial release date of the theme.
 * New: Added readme.md file.
 
 ### 1.0.0 ( Dec 30, 2019 ) ###
